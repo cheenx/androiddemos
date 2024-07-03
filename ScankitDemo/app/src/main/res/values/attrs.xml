@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScanView">
+        <attr name="frame_color" format="color|reference"/>
+        <attr name="frame_corner_color" format="color|reference"/>
+        <attr name="frame_line_width" format="dimension|reference"/>
+        <attr name="scan_line_color" format="color|reference"/>
+        <attr name="scan_line_drawable" format="reference"/>
+        <attr name="line_move_duration" format="integer"/>
+    </declare-styleable>
+</resources>
